@@ -1,0 +1,52 @@
+/* Color Theme Swatches in Hex */
+.Color-Theme-Swatches-in-Hex-1-hex {
+  color: #f2a922;
+}
+
+.Color-Theme-Swatches-in-Hex-2-hex {
+  color: #f2911b;
+}
+
+.Color-Theme-Swatches-in-Hex-3-hex {
+  color: #f2c48d;
+}
+
+.Color-Theme-Swatches-in-Hex-4-hex {
+  color: #f2811d;
+}
+
+.Color-Theme-Swatches-in-Hex-5-hex {
+  color: #f2f2f2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  display: grid;
+  place-items: center;
+}
+
+body img {
+  width: 300px;
+}
+
+body h1 {
+  color: #f2a922;
+  font-size: 100px;
+}
+
+body button {
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  margin: 10px auto;
+  background-color: #f2911b;
+  cursor: pointer;
+  color: #f2f2f2;
+}
