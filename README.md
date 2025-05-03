@@ -49,4 +49,4 @@ Este projeto é um cronômetro web minimalista criado para fornecer uma maneira 
 
 ## Autor
 
-- [Wesley Henrique / henriquewesley](https://github.com/henriquewesley)
+Wesley Henrique ®
